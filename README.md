@@ -11,7 +11,9 @@
 ###
 
 <p align="left">💻 Code Artisan: Building websites, crafting solutions, and exploring the world of software engineering.<br><br>🌱 Currently Learning: Machine Learning, Advanced React, and Flask API magic.<br><br>🚀 Goals for 2025:<br><br>➼ Create a dynamic and interactive portfolio website.<br>➼ Contribute to open-source projects.<br>➼ Develop a cutting-edge project combining AI and finance.<br><br>🎨 Technologies I Love:<br><br>🌐 Frontend: React, HTML5, CSS, JavaScript<br>🔧 Backend: Python (Flask), SQL, Java<br>🧠 Machine Learning: Scikit-learn, Matplotlib</p>
-
+ **LangChain Core Contributor** - Resolved critical architectural limitation in RunnableSequence class, enabling
+  structured output + tool binding workflows essential for modern AI applications. [PR
+  #32175](https://github.com/langchain-ai/langchain/pull/32175) | 50k+ ⭐
 ###
 
 <img src="https://raw.githubusercontent.com/20ns/20ns/output/snake.svg" alt="Snake animation" />
